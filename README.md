@@ -20,9 +20,9 @@ User-Friendly Interface: Provides a seamless experience for interacting with the
 
 **Technologies Used**
 
-Blockchain Platform: Ethereum / Hyperledger Fabric (Choose based on your implementation)
+Blockchain Platform: Ethereum 
 
-Smart Contracts: Solidity (for Ethereum) or Chaincode (for Hyperledger Fabric)
+Smart Contracts: Solidity (for Ethereum)
 
 Frontend: React.js and TSX
 
